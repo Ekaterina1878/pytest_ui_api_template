@@ -22,5 +22,10 @@
 - ./api - хелперы для работы с API
 - ./db - хелперы для работы с БД
 
+### Библиотеки (!)
+- pyp install pytest
+- pip install selenium
+- pip install webdriver-manager
+
 ### Полезные ссылки
 - [Подсказка по markdown](https://www.markdownguide.org/basic-syntax/)
